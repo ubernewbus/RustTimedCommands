@@ -1,0 +1,10 @@
+gather.rate dispenser Wood 100
+gather.rate dispenser Stones 100
+gather.rate dispenser "Metal Ore" 100
+gather.rate dispenser "Sulfur Ore" 100
+gather.rate dispenser "Bone Fragments" 100
+gather.rate dispenser "Animal Fat" 100
+gather.rate dispenser "Raw Chicken Breast" 100
+gather.rate dispenser "Raw Human Meat" 100
+gather.rate dispenser "Raw Wolf Meat" 100
+oxide.reload gathermanager
